@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SIASEB_FMP
+        psr4_prefix: SIASEB_FMP
+        src_path: app
